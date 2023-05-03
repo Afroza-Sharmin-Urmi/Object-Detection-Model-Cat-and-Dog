@@ -1,5 +1,7 @@
 # Object-Detection-Model-Cat-and-Dog
 Train and Deploy an object detection model to recognize cat and dog in an image.
+     
+     (NB: Please read the Description of Model Implementation and Analysis pdf file for details description with visual.)
 
                                                1. Data Annotation and Pre-processing
 
